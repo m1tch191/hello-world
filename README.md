@@ -1,2 +1,4 @@
 # hello-world
-Learning how this works
+Learning how this shit works
+
+seems fairly straight forward
